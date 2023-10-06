@@ -2,7 +2,7 @@
 
 A special repository, huh?
 
-Hey, I'm FloatingMilkshake. I have a passion for technology and software development and am currently learning C# and Java!
+Hey, I'm FloatingMilkshake. I have a passion for technology, software development and cybersecurity.
 
 ![Snake (light)](https://raw.githubusercontent.com/FloatingMilkshake/FloatingMilkshake/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![Snake (dark)](https://raw.githubusercontent.com/FloatingMilkshake/FloatingMilkshake/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
